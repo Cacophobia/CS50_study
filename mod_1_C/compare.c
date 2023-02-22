@@ -34,5 +34,4 @@ if (c == 'y' || c = 'Y')
   {
     printf("wtf XD\n");
   }
-  
 }
